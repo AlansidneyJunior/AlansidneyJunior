@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Alansidney Júnior, pode me chamar de Alan ...👀
+# 👋 Olá! Me chamo Alansidney, pode me chamar de Alan ...👀
 
 Sou desenvolvedor de software com interesse em **tecnologia, programação e computação em geral**.  
 Gosto de criar soluções práticas e bem estruturadas, estudando desde **algoritmos** e **estrutura de dados** até áreas como **redes**, **banco de dados** e **arquitetura de sistemas**.

@@ -26,7 +26,7 @@ Gosto de criar soluções práticas e bem estruturadas, estudando desde **algori
 
 ## 💼 Projetos em destaque
 
-- 🎲 [RPG Character Sheet](https://github.com/seuusuario/RPG-Character-Sheet)  
+- 🎲 [RPG Character Sheet](https://github.com/alansidneyjunior/rpg-character-Sheet)  
   API para criação de fichas de personagens de RPG com Spring Boot + PostgreSQL.
 
 ---

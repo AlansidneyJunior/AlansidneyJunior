@@ -28,6 +28,8 @@ Gosto de criar soluções práticas e bem estruturadas, estudando desde **algori
 
 - 🎲 [RPG Character Sheet](https://github.com/alansidneyjunior/rpg-character-Sheet)  
   API para criação de fichas de personagens de RPG com Spring Boot + PostgreSQL.
+- 📦​ [Inventory Manager](https://github.com/AlansidneyJunior/inventory-manager)  
+  API para criação de fichas de personagens de RPG com Spring Boot + PostgreSQL.
 
 ---
 
